@@ -2,7 +2,7 @@
 
 Meu nome é emanuele 
 
-- Estou estunando na alura
+- Estou estudando na alura
 - Estou me desenvolvendo na linguagem javaScript
 - ultilio sse espaço para minha organização dos meu projetos desenvolvidos
 
