@@ -1,4 +1,4 @@
-## chegue mais 😘
+## aproxime-se mais 😘
 
 Meu nome é emanuele 
 
