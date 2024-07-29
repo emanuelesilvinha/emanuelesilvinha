@@ -4,7 +4,7 @@ Meu nome é emanuele
 
 - Estou estudando na alura
 - Estou me desenvolvendo na linguagem javaScript
-- ultilio sse espaço para minha organização dos meu projetos desenvolvidos
+- ultilio esse espaço para minha organização dos meu projetos desenvolvidos
 
   ### voce entrar em contato comigo 📫
 
